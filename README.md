@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kaden Brown!</h1>
 <h3 align="center">Computer Science Student @ VCU | Passionate about Software Engineering, AI, & Frontend Development</h3>
 
-- 🔭 I’m currently working on **DueNow - A Smart Assignment Tracker for Students**
+- 🔭 I’m currently working on: **DueNow - A Smart Assignment Tracker for Students**
 
-- 🌱 I’m currently learning **React Native, Firebase, and LLM APIs**
+- 🌱 I’m currently learning: **React Native, Firebase, and LLM APIs**
 
-- 👨‍💻 You can also connect with me on LinkedIn [https://www.linkedin.com/in/kadenbrownswe/](https://www.linkedin.com/in/kadenbrownswe/)
+- 👨‍💻 You can also connect with me on LinkedIn: [https://www.linkedin.com/in/kadenbrownswe/](https://www.linkedin.com/in/kadenbrownswe/)
 
-- 📫 How to reach me **kadenxbrown@gmail.com**
+- 📫 How to reach me: **kadenxbrown@gmail.com**
 
-- ⚡ Fun fact **I run a successful TikTok page that is centered around and end-to-end automation pipeline I created myself**
+- ⚡ Fun fact: **I run a successful TikTok page that is centered around and end-to-end automation pipeline I created myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
