@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning: **React Native, Firebase, and LLM APIs**
 
+- 📌 You can learn more about me and my work here: [https://kadenbrown.netlify.app/](https://kadenbrown.netlify.app/) 
+
 - 👨‍💻 You can also connect with me on LinkedIn: [https://www.linkedin.com/in/kadenbrownswe/](https://www.linkedin.com/in/kadenbrownswe/)
 
 - 📫 How to reach me: **kadenxbrown@gmail.com**
 
-- ⚡ Fun fact: **I run a successful TikTok page that is centered around and end-to-end automation pipeline I created myself**
+- ⚡ Fun fact: **I run a successful TikTok page thanks to an end-to-end automation pipeline I created myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
