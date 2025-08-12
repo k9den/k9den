@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Tabi - A Smart Tab Splitter**
 
-- 🌱 I’m currently learning: **React Native, Firebase, and LLM APIs**
+- 🌱 I’m currently learning: **React Native and LLM APIs**
 
 - 📌 You can learn more about me and my work here: [https://kadenbrown.netlify.app/](https://kadenbrown.netlify.app/) 
 
