@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Kaden Brown!</h1>
 <h3 align="center">Computer Science Student @ VCU | Passionate about Software Engineering, AI, & Frontend Development</h3>
 
-- 🔭 I’m currently working on: **DueNow - A Smart Assignment Tracker for Students**
+- 🔭 I’m currently working on: **Tabi - A Smart Tab Splitter**
 
 - 🌱 I’m currently learning: **React Native, Firebase, and LLM APIs**
 
