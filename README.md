@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋,  I'm Kaden Brown!</h1>
-<h3 align="center">Computer Science Student @ VCU | Passionate about Software Engineering, AI, & Frontend Development</h3>
+<h3 align="center">Computer Science Student @ VCU minoring in A.I. | Passionate about Software Engineering, A.I., & Full-Stack Development</h3>
 
 - 🔭 I’m currently working on: **Tabi - A Smart Tab Splitter**
+
+- 💼 I'm currently working at: **Todd Agriscience as a Software Developer Intern & Universal Music Group as a Marketing Tech Intern**
+
+  <img width="100" height="100" alt="toddlogo" src="https://github.com/user-attachments/assets/356256ff-216f-432f-99c1-65a3f77d8358" /> <img width="100" height="100" alt="umglogo" src="https://github.com/user-attachments/assets/84513b6d-4e68-4152-8130-4c852e84f074" />
+
+
 
 - 🌱 I’m currently learning: **React Native and LLM APIs**
 
